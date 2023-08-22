@@ -14,13 +14,13 @@
 
 Liu Gongquan style (FID = 8.61) | Mi Fu style (FID = 11.89)
 --- | ---
-![lgq](generated%20images/Kaishu_64px.png) | ![mf](generated%20images/XingShu_64px.png) 
+![lgq](generated%20images/Liu_Gongquan_style.png) | ![mf](generated%20images/Mi_Fu_style.png) 
 
 * The faint black parts in the generated images are artifacts inherited from the training data. They can be effectively removed by applying a pixel-value-based filter. Code is available at `Filter.ipynb`.
 
 Liu Gongquan style (after applying a filter) | Mi Fu style (after applying a filter)
 --- | ---
-![lgq](generated%20images/Kaishu_64px_filtered.png) | ![mf](generated%20images/Xingshu_64px_filtered.png) 
+![lgq](generated%20images/Liu_Gongquan_style_filtered.png) | ![mf](generated%20images/Mi_Fu_style_filtered.png) 
 
 ## Interpolation <br>
 * Interpolation of latent space, code is available at `Interpolation.ipynb`
