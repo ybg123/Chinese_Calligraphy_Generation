@@ -7,7 +7,7 @@
   * Progressive Growing of GANs [1, 4, 9]. <br>
   * Non-saturating GAN loss with R<sub>1</sub> regularization [2]. <br>
   * Differentiable Augmentation [3, 7]. <br>
-* The Frechet Inception Distance (FID) [5, 6] calculated from 50000 generated images using the official implementation of FID to Pytorch [6] is **8** for the style of Liu Gongquan and **11** for the style of Mi Fu. Code is available at `FID_Calculation.ipynb`.<br>
+* The Frechet Inception Distance (FID) [5, 6] calculated from 50000 generated images using the official implementation of FID to Pytorch [6] is **8.61** for the style of Liu Gongquan and **11.89** for the style of Mi Fu. Code is available at `FID_Calculation.ipynb`.<br>
 
 ## Generated images <br>
 * Selected generated images: <br><br>
